@@ -14,7 +14,7 @@ if (isMatch) {
 } else {
   console.log("Promo code doesn't exit");
 }
-const test = " commit lan 1";
+const test = " commit lan 1234";
 const test2 = " commit lan 2";
 const test3 = " commit lan 3";
 const test4 = " commit lan 4";
